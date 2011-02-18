@@ -22,6 +22,7 @@ Coming Soon
 2. AND/OR in the filter
 3. Some styling (maybe)
 4. Bug Reports, Feature Requests, Awards
+5. Sentiment analysis
 
 Files
 -----
