@@ -84,6 +84,7 @@ echo "<a href=\"". $connection->getAuthorizeURL($request_token["oauth_token"]) .
 </ol>
 <h3>Bug Reports, Feature Requests, Awards</h3>
 <p>Just <a href="http://twitter.com/#!/conoro">@conoro</a></p>
+<a href="http://www.digitalmines.com/"><img src="http://www.web2ireland.org/wp-content/uploads/2011/03/poweredby.png" /></a>
 <br />
 <br />
 <br />
